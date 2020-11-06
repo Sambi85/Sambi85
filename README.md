@@ -8,5 +8,5 @@
 - Linked-in: https://www.linkedin.com/in/samuel-lesser-73861283/
 - Blog Posts: https://medium.com/@ineedmoreplates
 - Contact me: rails.db.seed@gmail.com 
-- Resume: https://docs.google.com/document/d/1DYu4ZvUN1khy8Jw6SvFrCld-YuJ6fWzuIk_vLYFSD9A/edit
+- Resume: https://docs.google.com/document/d/1DYu4ZvUN1khy8Jw6SvFrCld-YuJ6fWzuIk_vLYFSD9A/edit<br>
 <img src="https://img.icons8.com/dusk/64/000000/ruby-programming-language.png"/><img src="https://img.icons8.com/dusk/64/000000/html-5.png"/>
