@@ -2,9 +2,12 @@
 <img src="https://64.media.tumblr.com/5d35866fa3e1c50c0ae1972d102d8f52/tumblr_pj67utApxx1r2ldlq_540.gif" alt="cat">
 
 
-- 🔭 I’m currently working on ... a Farmer's Market App
-- 🌱 I’m currently learning ... Reddux
-- 💬 Ask me about ... Rails, Ruby, React.Js
+- 🔭 I’m currently working on ... Good Urth (Foodie to Local Farmer App)
+- Good Urth(client): https://github.com/Sambi85/good-urth-front-end
+- Good Urth(server): https://github.com/Sambi85/good-urth-back-end
+
+- 🌱 I’m currently learning ... React Native
+- 💬 Ask me about ... Rails, Ruby, JavaScript, HTML, CSS, React.Js, Redux
 - Linked-in: https://www.linkedin.com/in/samuel-lesser-73861283/
 - Blog Posts: https://medium.com/@ineedmoreplates
 - Contact me: rails.db.seed@gmail.com 
