@@ -5,6 +5,7 @@
 - 🔭 I’m currently working on ... Good Urth (Foodie to Local Farmer App)
 - Good Urth(client): https://github.com/Sambi85/good-urth-front-end
 - Good Urth(server): https://github.com/Sambi85/good-urth-back-end
+- React Native Test Project: https://github.com/Sambi85/react-native-mini-project-1
 
 - 🌱 I’m currently learning ... React Native
 - 💬 Ask me about ... Rails, Ruby, JavaScript, HTML, CSS, React.Js, Redux
