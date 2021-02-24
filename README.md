@@ -11,7 +11,7 @@
 - React Native Test 2 Yelp Review App: https://github.com/Sambi85/react-native-mini-project-2
 - React Native Test 3 Basic Blog App: https://github.com/Sambi85/react-native-mini-project-3
 
-- 🌱 I’m currently learning ... React Native
+- 🌱 I’m currently learning ... React Native, Amplify, AWS, GraphQL
 
 - 💬 Ask me about ... Rails, Ruby, JavaScript, HTML, CSS, React.Js, Redux
 - Linked-in: https://www.linkedin.com/in/samuel-lesser-73861283/
