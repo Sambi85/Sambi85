@@ -1,19 +1,21 @@
 <h1>Welcome, Friend !</h1>
 <img src="https://64.media.tumblr.com/5d35866fa3e1c50c0ae1972d102d8f52/tumblr_pj67utApxx1r2ldlq_540.gif" alt="cat">
 
+- 🔭 I’m currently working on ... MyTyde team(internship)
 
-- 🔭 I’m currently working on ... Good Urth (Foodie to Local Farmer App)
+💻 Side Project: It's on going :)
 - Good Urth(client): https://github.com/Sambi85/good-urth-front-end
 - Good Urth(server): https://github.com/Sambi85/good-urth-back-end
 
-React Native:
+💻 React Native:
 - React Native Test 1 Basic Concepts: https://github.com/Sambi85/react-native-mini-project-1
 - React Native Test 2 Yelp Review App: https://github.com/Sambi85/react-native-mini-project-2
 - React Native Test 3 Basic Blog App: https://github.com/Sambi85/react-native-mini-project-3
 
-Node.js:
+💻 Node.js:
 - Node.js Learning Exercises: https://github.com/Sambi85/learning-node-js
 
+Important Stuff 🤓: 
 - 🌱 I’m currently learning ... React Native, Amplify, AWS, GraphQL, Node.js
 
 - 💬 Ask me about ... Rails, Ruby, JavaScript, HTML, CSS, React.Js, Redux
