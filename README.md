@@ -17,6 +17,9 @@
 💻 Node.js:
 - Node.js Learning Exercises: https://github.com/Sambi85/learning-node-js
 
+💻 Github:
+- 🤖 Auto Commits: https://github.com/Sambi85/auto-commits
+
 Important Stuff 🤓 :
 - 🌱 I’m currently learning ... React Native, Amplify, AWS, GraphQL, Node.js, Express
 
