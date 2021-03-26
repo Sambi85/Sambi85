@@ -1,6 +1,8 @@
 <h1>Welcome, Friend !</h1>
 <img src="https://64.media.tumblr.com/5d35866fa3e1c50c0ae1972d102d8f52/tumblr_pj67utApxx1r2ldlq_540.gif" alt="cat">
 
+- My fav new quote 🤔 : "To know that we know what we know, and to know that we do not know what we do not know, that is true knowledge" —Nicolaus Copernicus.
+
 - 🔭 I’m currently working on ... MyTyde team(internship)
 
 💻 Side Project: It's on going :)
@@ -15,8 +17,8 @@
 💻 Node.js:
 - Node.js Learning Exercises: https://github.com/Sambi85/learning-node-js
 
-Important Stuff 🤓: 
-- 🌱 I’m currently learning ... React Native, Amplify, AWS, GraphQL, Node.js
+Important Stuff 🤓 :
+- 🌱 I’m currently learning ... React Native, Amplify, AWS, GraphQL, Node.js, Express
 
 - 💬 Ask me about ... Rails, Ruby, JavaScript, HTML, CSS, React.Js, Redux
 - Linked-in: https://www.linkedin.com/in/samuel-lesser-73861283/
