@@ -1,2 +1,2 @@
-<h1>Welcome, Friend !</h1>
-<img src="https://64.media.tumblr.com/5d35866fa3e1c50c0ae1972d102d8f52/tumblr_pj67utApxx1r2ldlq_540.gif" alt="cat">
+<h1>Hello There!</h1>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/gas4Zcw514MwgKOnq9" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/blizzard-diablo-cain-gas4Zcw514MwgKOnq9">via GIPHY</a></p>
